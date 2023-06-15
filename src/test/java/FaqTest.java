@@ -23,7 +23,7 @@ public class FaqTest extends BaseTest {
     private final String errorText = "Должно быть " + expectedTexts.length + " вопросов и ответов. Текст указанный выше содержит ошибку";
 
     @Test
-    public void getTextAccordionElementsTest() throws InterruptedException {
+    public void getTextAccordionElementsTest() {
         driver.get("https://qa-scooter.praktikum-services.ru/");
         MainPage mainPage = new MainPage(driver);
 
