@@ -10,7 +10,7 @@
 4. Selenium-java: 4.9.1
 5. WebDriverManager: 5.3.3
 
-[<img alt="Запуск теста" width="50" src="src/main/resources/Free-icon-start-button-5453658.png">](`mvn clean test`)
+[<img alt="Запуск теста" width="50" src="src/main/resources/Free-icon-start-button-5453658.jpeg">](`mvn clean test`)
 
 
 
